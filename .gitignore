@@ -1,0 +1,11 @@
+*
+!/.gitignore
+!/PromptIME.ahk
+!/README.md
+!/PRIVACY.md
+!/LICENSE
+!/CHANGELOG.md
+!/samples/
+!/samples/prompts.txt
+!/samples/attachments.ini
+!/samples/genres.ini
